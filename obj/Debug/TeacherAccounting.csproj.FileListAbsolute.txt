@@ -1,0 +1,13 @@
+C:\Users\Hailok\Documents\projects\TeacherAccounting\bin\Debug\TeacherAccounting.exe.config
+C:\Users\Hailok\Documents\projects\TeacherAccounting\bin\Debug\TeacherAccounting.exe
+C:\Users\Hailok\Documents\projects\TeacherAccounting\bin\Debug\TeacherAccounting.pdb
+C:\Users\Hailok\Documents\projects\TeacherAccounting\obj\Debug\TeacherAccounting.csprojAssemblyReference.cache
+C:\Users\Hailok\Documents\projects\TeacherAccounting\obj\Debug\TeacherAccounting.Properties.Resources.resources
+C:\Users\Hailok\Documents\projects\TeacherAccounting\obj\Debug\TeacherAccounting.csproj.GenerateResource.cache
+C:\Users\Hailok\Documents\projects\TeacherAccounting\obj\Debug\TeacherAccounting.csproj.CoreCompileInputs.cache
+C:\Users\Hailok\Documents\projects\TeacherAccounting\obj\Debug\TeacherAccounting.exe
+C:\Users\Hailok\Documents\projects\TeacherAccounting\obj\Debug\TeacherAccounting.pdb
+C:\Users\Hailok\Documents\projects\TeacherAccounting\bin\Debug\ru\TeacherAccounting.resources.dll
+C:\Users\Hailok\Documents\projects\TeacherAccounting\obj\Debug\TeacherAccounting.TeacherAccounting.resources
+C:\Users\Hailok\Documents\projects\TeacherAccounting\obj\Debug\TeacherAccounting.TeacherAccounting.ru.resources
+C:\Users\Hailok\Documents\projects\TeacherAccounting\obj\Debug\ru\TeacherAccounting.resources.dll
