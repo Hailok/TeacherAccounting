@@ -117,6 +117,156 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="teacher_subject_label.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="teacher_subject_label.Location" type="System.Drawing.Point, System.Drawing">
+    <value>50, 34</value>
+  </data>
+  <data name="teacher_subject_label.Size" type="System.Drawing.Size, System.Drawing">
+    <value>52, 13</value>
+  </data>
+  <data name="teacher_subject_label.Text" xml:space="preserve">
+    <value>Предмет</value>
+  </data>
+  <data name="teacher_full_name_label.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="teacher_full_name_label.Location" type="System.Drawing.Point, System.Drawing">
+    <value>68, 8</value>
+  </data>
+  <data name="teacher_full_name_label.Size" type="System.Drawing.Size, System.Drawing">
+    <value>34, 13</value>
+  </data>
+  <data name="teacher_full_name_label.Text" xml:space="preserve">
+    <value>ФИО</value>
+  </data>
+  <data name="teacher_delete_button.Text" xml:space="preserve">
+    <value>Удалить</value>
+  </data>
+  <data name="teacher_add_button.Text" xml:space="preserve">
+    <value>Добавить</value>
+  </data>
+  <data name="teacher_subject_textBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>108, 31</value>
+  </data>
+  <data name="teacher_subject_textBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>160, 20</value>
+  </data>
+  <data name="teacher_full_name_textBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>108, 5</value>
+  </data>
+  <data name="teacher_full_name_textBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>160, 20</value>
+  </data>
+  <data name="teachers_dataGrid.Size" type="System.Drawing.Size, System.Drawing">
+    <value>343, 251</value>
+  </data>
+  <data name="subject_total_hour_need_label.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="subject_total_hour_need_label.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="subject_total_hour_need_label.Size" type="System.Drawing.Size, System.Drawing">
+    <value>92, 13</value>
+  </data>
+  <data name="subject_total_hour_need_label.Text" xml:space="preserve">
+    <value>Требуется часов</value>
+  </data>
+  <data name="subject_name_label.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="subject_name_label.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="subject_name_label.Location" type="System.Drawing.Point, System.Drawing">
+    <value>50, 8</value>
+  </data>
+  <data name="subject_name_label.Size" type="System.Drawing.Size, System.Drawing">
+    <value>52, 13</value>
+  </data>
+  <data name="subject_name_label.Text" xml:space="preserve">
+    <value>Предмет</value>
+  </data>
+  <data name="subject_delete_button.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="subject_delete_button.Text" xml:space="preserve">
+    <value>Удалить</value>
+  </data>
+  <data name="subject_add_button.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="subject_add_button.Location" type="System.Drawing.Point, System.Drawing">
+    <value>274, 3</value>
+  </data>
+  <data name="subject_add_button.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="subject_add_button.Text" xml:space="preserve">
+    <value>Добавить</value>
+  </data>
+  <data name="subject_total_hour_need_textBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>160, 20</value>
+  </data>
+  <data name="subject_name_textBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>108, 5</value>
+  </data>
+  <data name="subject_name_textBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>160, 20</value>
+  </data>
+  <data name="subjects_dataGrid.Size" type="System.Drawing.Size, System.Drawing">
+    <value>343, 251</value>
+  </data>
+  <data name="lesson_teacher_name_label.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lesson_teacher_name_label.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lesson_teacher_name_label.Size" type="System.Drawing.Size, System.Drawing">
+    <value>86, 13</value>
+  </data>
+  <data name="lesson_teacher_name_label.Text" xml:space="preserve">
+    <value>Преподаватель</value>
+  </data>
+  <data name="lesson_subject_name_label.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lesson_subject_name_label.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lesson_subject_name_label.Size" type="System.Drawing.Size, System.Drawing">
+    <value>52, 13</value>
+  </data>
+  <data name="lesson_subject_name_label.Text" xml:space="preserve">
+    <value>Предмет</value>
+  </data>
+  <data name="lesson_delete_button.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lesson_delete_button.Text" xml:space="preserve">
+    <value>Удалить</value>
+  </data>
+  <data name="lesson_add_button.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lesson_add_button.Text" xml:space="preserve">
+    <value>Добавить</value>
+  </data>
+  <data name="lesson_teacher_name_textBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>160, 20</value>
+  </data>
+  <data name="lesson_subject_name_textBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>160, 20</value>
+  </data>
+  <data name="lessons_dataGrid.Size" type="System.Drawing.Size, System.Drawing">
+    <value>343, 251</value>
+  </data>
   <data name="$this.Text" xml:space="preserve">
     <value>Учёт преподавателей</value>
   </data>
