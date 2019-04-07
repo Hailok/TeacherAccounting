@@ -121,9 +121,6 @@
   <data name="lessons.Location" type="System.Drawing.Point, System.Drawing">
     <value>4, 22</value>
   </data>
-  <data name="&gt;&gt;teacher_delete_button.Name" xml:space="preserve">
-    <value>teacher_delete_button</value>
-  </data>
   <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="teachers_subject_label.TabIndex" type="System.Int32, mscorlib">
     <value>6</value>
@@ -212,23 +209,17 @@
   <data name="subject_label.Size" type="System.Drawing.Size, System.Drawing">
     <value>52, 13</value>
   </data>
-  <data name="&gt;&gt;button2.Name" xml:space="preserve">
-    <value>button2</value>
-  </data>
   <data name="&gt;&gt;lesson_subject_name_label.Name" xml:space="preserve">
     <value>lesson_subject_name_label</value>
   </data>
   <data name="subject_textBox.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
   </data>
-  <data name="teacher_add_button.TabIndex" type="System.Int32, mscorlib">
-    <value>3</value>
-  </data>
   <data name="&gt;&gt;subject_total_hour_need_label.Parent" xml:space="preserve">
     <value>subjects</value>
   </data>
-  <data name="button2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>274, 3</value>
+  <data name="subject_total_hour_need_label.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 34</value>
   </data>
   <data name="&gt;&gt;subject_total_hour_need_label.Name" xml:space="preserve">
     <value>subject_total_hour_need_label</value>
@@ -260,8 +251,8 @@
   <data name="label3.Location" type="System.Drawing.Point, System.Drawing">
     <value>3, 34</value>
   </data>
-  <data name="&gt;&gt;full_name_label.Name" xml:space="preserve">
-    <value>full_name_label</value>
+  <data name="teacher_total_hour_allowed_label.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
   </data>
   <data name="&gt;&gt;textBox3.Type" xml:space="preserve">
     <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -362,17 +353,14 @@
   <data name="lesson_subject_name_label.Location" type="System.Drawing.Point, System.Drawing">
     <value>50, 8</value>
   </data>
-  <data name="&gt;&gt;full_name.Type" xml:space="preserve">
-    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
   <data name="&gt;&gt;dataGridView3.ZOrder" xml:space="preserve">
     <value>6</value>
   </data>
   <data name="subject_total_hour_need_textBox.TabIndex" type="System.Int32, mscorlib">
     <value>9</value>
   </data>
-  <data name="&gt;&gt;tabControl1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TabControl, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="dataGridViewTextBoxColumn5.Width" type="System.Int32, mscorlib">
+    <value>200</value>
   </data>
   <data name="&gt;&gt;dataGridView3.Parent" xml:space="preserve">
     <value>lessons</value>
@@ -419,9 +407,6 @@
   <data name="delete_button.Location" type="System.Drawing.Point, System.Drawing">
     <value>274, 29</value>
   </data>
-  <data name="&gt;&gt;dataGridViewTextBoxColumn1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
   <data name="subject_label.Location" type="System.Drawing.Point, System.Drawing">
     <value>3, 34</value>
   </data>
@@ -430,6 +415,12 @@
   </data>
   <data name="&gt;&gt;subjects.ZOrder" xml:space="preserve">
     <value>1</value>
+  </data>
+  <data name="teacher_total_hour_allowed_textBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>108, 31</value>
+  </data>
+  <data name="dataGridView2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 58</value>
   </data>
   <data name="&gt;&gt;lessons_dataGrid.Name" xml:space="preserve">
     <value>lessons_dataGrid</value>
@@ -455,6 +446,9 @@
   <data name="&gt;&gt;subject_delete_button.Name" xml:space="preserve">
     <value>subject_delete_button</value>
   </data>
+  <data name="&gt;&gt;teacher_total_hour_allowed_textBox.Parent" xml:space="preserve">
+    <value>teachers</value>
+  </data>
   <data name="&gt;&gt;lesson_subject_name_label.Type" xml:space="preserve">
     <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
@@ -464,8 +458,8 @@
   <data name="dataGridViewTextBoxColumn6.HeaderText" xml:space="preserve">
     <value>Часы</value>
   </data>
-  <data name="&gt;&gt;$this.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="&gt;&gt;teachers_dataGrid.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;teacher_full_name_label.Name" xml:space="preserve">
     <value>teacher_full_name_label</value>
@@ -494,6 +488,9 @@
   <data name="full_name_textBox.Location" type="System.Drawing.Point, System.Drawing">
     <value>64, 6</value>
   </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
   <data name="&gt;&gt;lesson_add_button.Type" xml:space="preserve">
     <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
@@ -515,14 +512,20 @@
   <data name="full_name_label.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
-  <data name="&gt;&gt;teachers_dataGrid.Type" xml:space="preserve">
-    <value>System.Windows.Forms.DataGridView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="&gt;&gt;teacher_total_hour_allowed_textBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;teacher_total_hour_allowed_textBox.Name" xml:space="preserve">
+    <value>teacher_total_hour_allowed_textBox</value>
   </data>
   <data name="&gt;&gt;dataGridView2.ZOrder" xml:space="preserve">
     <value>6</value>
   </data>
-  <data name="dataGridView2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 58</value>
+  <data name="&gt;&gt;teacher_total_hour_allowed_label.Name" xml:space="preserve">
+    <value>teacher_total_hour_allowed_label</value>
+  </data>
+  <data name="teacher_total_hour_allowed_label.Location" type="System.Drawing.Point, System.Drawing">
+    <value>50, 34</value>
   </data>
   <data name="&gt;&gt;hours.Name" xml:space="preserve">
     <value>hours</value>
@@ -554,9 +557,6 @@
   <data name="textBox3.Location" type="System.Drawing.Point, System.Drawing">
     <value>64, 32</value>
   </data>
-  <data name="&gt;&gt;lesson_subject_name_textBox.Parent" xml:space="preserve">
-    <value>lessons</value>
-  </data>
   <data name="&gt;&gt;teacher_subject_textBox.Type" xml:space="preserve">
     <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
@@ -584,11 +584,8 @@
   <data name="&gt;&gt;button4.Parent" xml:space="preserve">
     <value>lessons</value>
   </data>
-  <data name="subject_total_hour_need_label.Location" type="System.Drawing.Point, System.Drawing">
-    <value>10, 34</value>
-  </data>
-  <data name="&gt;&gt;textBox1.ZOrder" xml:space="preserve">
-    <value>4</value>
+  <data name="&gt;&gt;label3.Parent" xml:space="preserve">
+    <value>lessons</value>
   </data>
   <data name="&gt;&gt;full_name_label.Type" xml:space="preserve">
     <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -665,6 +662,9 @@
   <data name="&gt;&gt;subject_add_button.Parent" xml:space="preserve">
     <value>subjects</value>
   </data>
+  <data name="dataGridViewTextBoxColumn1.Width" type="System.Int32, mscorlib">
+    <value>250</value>
+  </data>
   <data name="lesson_teacher_name_label.TabIndex" type="System.Int32, mscorlib">
     <value>13</value>
   </data>
@@ -689,8 +689,8 @@
   <data name="&gt;&gt;full_name_textBox.ZOrder" xml:space="preserve">
     <value>5</value>
   </data>
-  <data name="&gt;&gt;teacher_add_button.ZOrder" xml:space="preserve">
-    <value>3</value>
+  <data name="&gt;&gt;button3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;hours.Type" xml:space="preserve">
     <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -704,11 +704,17 @@
   <data name="lessons_dataGrid.TabIndex" type="System.Int32, mscorlib">
     <value>7</value>
   </data>
+  <data name="button2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>274, 3</value>
+  </data>
   <data name="&gt;&gt;subject_label.Parent" xml:space="preserve">
     <value>subjects</value>
   </data>
   <data name="teacher_full_name_textBox.Location" type="System.Drawing.Point, System.Drawing">
     <value>64, 6</value>
+  </data>
+  <data name="dataGridViewTextBoxColumn4.Width" type="System.Int32, mscorlib">
+    <value>150</value>
   </data>
   <data name="&gt;&gt;dataGridView2.Parent" xml:space="preserve">
     <value>subjects</value>
@@ -767,8 +773,8 @@
   <data name="addteacher_button.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
   </data>
-  <data name="&gt;&gt;textBox2.Parent" xml:space="preserve">
-    <value>subjects</value>
+  <data name="&gt;&gt;textBox1.ZOrder" xml:space="preserve">
+    <value>4</value>
   </data>
   <data name="&gt;&gt;button1.Parent" xml:space="preserve">
     <value>subjects</value>
@@ -782,6 +788,9 @@
   <data name="&gt;&gt;label1.Name" xml:space="preserve">
     <value>label1</value>
   </data>
+  <data name="&gt;&gt;lesson_add_button.Parent" xml:space="preserve">
+    <value>lessons</value>
+  </data>
   <data name="subjects.Location" type="System.Drawing.Point, System.Drawing">
     <value>4, 22</value>
   </data>
@@ -790,6 +799,9 @@
   </data>
   <data name="&gt;&gt;subject_total_hour_need_textBox.Name" xml:space="preserve">
     <value>subject_total_hour_need_textBox</value>
+  </data>
+  <data name="&gt;&gt;teacher_delete_button.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;subject_total_hour_need_textBox.ZOrder" xml:space="preserve">
     <value>4</value>
@@ -818,8 +830,8 @@
   <data name="&gt;&gt;button1.Type" xml:space="preserve">
     <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;lesson_teacher_name.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="&gt;&gt;teacher_delete_button.Name" xml:space="preserve">
+    <value>teacher_delete_button</value>
   </data>
   <data name="subject_delete_button.Location" type="System.Drawing.Point, System.Drawing">
     <value>274, 29</value>
@@ -842,9 +854,6 @@
   <data name="addteacher_button.Location" type="System.Drawing.Point, System.Drawing">
     <value>274, 3</value>
   </data>
-  <data name="&gt;&gt;label3.Parent" xml:space="preserve">
-    <value>lessons</value>
-  </data>
   <data name="&gt;&gt;lesson_add_button.ZOrder" xml:space="preserve">
     <value>3</value>
   </data>
@@ -865,6 +874,9 @@
   </data>
   <data name="&gt;&gt;lesson_teacher_name_textBox.Type" xml:space="preserve">
     <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="hours.Width" type="System.Int32, mscorlib">
+    <value>50</value>
   </data>
   <data name="teacher_subject_label.TabIndex" type="System.Int32, mscorlib">
     <value>6</value>
@@ -905,6 +917,12 @@
   <data name="&gt;&gt;addteacher_button.ZOrder" xml:space="preserve">
     <value>3</value>
   </data>
+  <data name="&gt;&gt;lesson_teacher_name.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;teacher_total_hour_allowed_label.Parent" xml:space="preserve">
+    <value>teachers</value>
+  </data>
   <data name="&gt;&gt;textBox4.ZOrder" xml:space="preserve">
     <value>5</value>
   </data>
@@ -914,8 +932,8 @@
   <data name="&gt;&gt;total_hour_need_label.Parent" xml:space="preserve">
     <value>subjects</value>
   </data>
-  <data name="&gt;&gt;teachers_subject_label.Name" xml:space="preserve">
-    <value>teachers_subject_label</value>
+  <data name="&gt;&gt;tabControl1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabControl, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;addteacher_button.Name" xml:space="preserve">
     <value>addteacher_button</value>
@@ -923,11 +941,11 @@
   <data name="&gt;&gt;subject_delete_button.ZOrder" xml:space="preserve">
     <value>2</value>
   </data>
-  <data name="button4.Location" type="System.Drawing.Point, System.Drawing">
-    <value>274, 3</value>
+  <data name="&gt;&gt;lesson_subject_name_textBox.Parent" xml:space="preserve">
+    <value>lessons</value>
   </data>
-  <data name="&gt;&gt;subject_name_textBox.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="teacher_add_button.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
   </data>
   <data name="subject_total_hour_need_textBox.Location" type="System.Drawing.Point, System.Drawing">
     <value>108, 31</value>
@@ -960,14 +978,17 @@
   <data name="button3.Location" type="System.Drawing.Point, System.Drawing">
     <value>274, 29</value>
   </data>
-  <data name="&gt;&gt;lesson_add_button.Parent" xml:space="preserve">
-    <value>lessons</value>
+  <data name="&gt;&gt;teacher_total_hour_allowed_label.ZOrder" xml:space="preserve">
+    <value>0</value>
   </data>
   <data name="&gt;&gt;lessons.Type" xml:space="preserve">
     <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;teacher_add_button.Name" xml:space="preserve">
     <value>teacher_add_button</value>
+  </data>
+  <data name="dataGridView2.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
   </data>
   <data name="&gt;&gt;addteacher_button.Type" xml:space="preserve">
     <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -1008,6 +1029,9 @@
   <data name="teacher_add_button.Size" type="System.Drawing.Size, System.Drawing">
     <value>75, 23</value>
   </data>
+  <data name="&gt;&gt;full_name.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
   <data name="button1.Size" type="System.Drawing.Size, System.Drawing">
     <value>75, 23</value>
   </data>
@@ -1032,14 +1056,17 @@
   <data name="&gt;&gt;lesson_subject_name_label.Parent" xml:space="preserve">
     <value>lessons</value>
   </data>
-  <data name="&gt;&gt;teacher_delete_button.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="&gt;&gt;dataGridViewTextBoxColumn1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="lessons.Text" xml:space="preserve">
     <value>Занятия</value>
   </data>
-  <data name="&gt;&gt;tabControl1.ZOrder" xml:space="preserve">
-    <value>0</value>
+  <data name="&gt;&gt;teacher_add_button.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;textBox2.Parent" xml:space="preserve">
+    <value>subjects</value>
   </data>
   <data name="&gt;&gt;lesson_subject_name_textBox.Type" xml:space="preserve">
     <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -1053,11 +1080,14 @@
   <data name="&gt;&gt;teachers_dataGrid.Name" xml:space="preserve">
     <value>teachers_dataGrid</value>
   </data>
+  <data name="&gt;&gt;teachers_subject_label.Name" xml:space="preserve">
+    <value>teachers_subject_label</value>
+  </data>
   <data name="&gt;&gt;lesson_teacher_name.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
-  <data name="dataGridView2.TabIndex" type="System.Int32, mscorlib">
-    <value>7</value>
+  <data name="&gt;&gt;button2.Name" xml:space="preserve">
+    <value>button2</value>
   </data>
   <data name="&gt;&gt;subject_name_label.Parent" xml:space="preserve">
     <value>subjects</value>
@@ -1080,11 +1110,20 @@
   <data name="lesson_teacher_name_textBox.Location" type="System.Drawing.Point, System.Drawing">
     <value>108, 31</value>
   </data>
+  <data name="&gt;&gt;teacher_total_hour_allowed_textBox.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
   <data name="&gt;&gt;full_name_textBox.Type" xml:space="preserve">
     <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="teacher_full_name_textBox.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
+  </data>
+  <data name="&gt;&gt;subject_name_textBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="full_name.Width" type="System.Int32, mscorlib">
+    <value>200</value>
   </data>
   <data name="textBox3.TabIndex" type="System.Int32, mscorlib">
     <value>9</value>
@@ -1137,8 +1176,14 @@
   <data name="&gt;&gt;teacher_full_name_textBox.Type" xml:space="preserve">
     <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
+  <data name="&gt;&gt;tabControl1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
   <data name="&gt;&gt;lessons_dataGrid.Type" xml:space="preserve">
     <value>System.Windows.Forms.DataGridView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="teacher_total_hour_allowed_textBox.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
   </data>
   <data name="&gt;&gt;subject_delete_button.Type" xml:space="preserve">
     <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -1160,9 +1205,6 @@
   </data>
   <data name="&gt;&gt;textBox1.Parent" xml:space="preserve">
     <value>subjects</value>
-  </data>
-  <data name="&gt;&gt;button3.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="subjects.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 3, 3, 3</value>
@@ -1191,11 +1233,17 @@
   <data name="&gt;&gt;dataGridView1.Parent" xml:space="preserve">
     <value>teachers</value>
   </data>
+  <data name="dataGridViewTextBoxColumn2.Width" type="System.Int32, mscorlib">
+    <value>75</value>
+  </data>
   <data name="full_name.HeaderText" xml:space="preserve">
     <value>ФИО</value>
   </data>
   <data name="&gt;&gt;textBox3.Name" xml:space="preserve">
     <value>textBox3</value>
+  </data>
+  <data name="&gt;&gt;full_name_label.Name" xml:space="preserve">
+    <value>full_name_label</value>
   </data>
   <data name="&gt;&gt;dataGridView2.Name" xml:space="preserve">
     <value>dataGridView2</value>
@@ -1208,6 +1256,12 @@
   </data>
   <data name="teacher_full_name_label.TabIndex" type="System.Int32, mscorlib">
     <value>5</value>
+  </data>
+  <data name="button4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>274, 3</value>
+  </data>
+  <data name="&gt;&gt;teacher_total_hour_allowed_label.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="label1.TabIndex" type="System.Int32, mscorlib">
     <value>13</value>
